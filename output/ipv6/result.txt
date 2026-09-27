@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-25 23:05:39,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-09-27 23:05:45,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -63,10 +63,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-广东体育,https://cdn.qd.je/163189/gdty$订阅源
-广东体育,https://cdn.qd.je/163189/gdty$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
-五星体育,https://cdn.qd.je/163189/wxty$订阅源
 
 🪁动画频道,#genre#
